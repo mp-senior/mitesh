@@ -1,3 +1,5 @@
+//12-12-2023
+//task-1
 #include<stdio.h>
 #include<conio.h>
 void main()
